@@ -23,7 +23,7 @@ The python files contain the code which conducts the backtest
 -  Average Directional Movement Index (DMI)
 
 ## Data
-The stock data is based on the S&P 500 index and that data in contained in the SP500.csv file 
+The stock data is based on the S&P 500 index
 ## Summary
 RSI & SMA 200 performed the best with a 25,986% return on initial investment
 
