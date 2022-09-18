@@ -25,7 +25,7 @@ The python files contain the code which conducts the backtest
 ## Data
 The stock data is based on the S&P 500 index and that data in contained in the SP500.csv file 
 ## Summary
-RSI & SMA 200 performed the best
+RSI & SMA 200 performed the best with a 25,986% return on initial investment
 
 
 
