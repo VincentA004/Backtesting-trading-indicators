@@ -6,7 +6,7 @@ The log files contain data on the tested indicator such as
 - Accuracy
 - Average Increse in Price
 - Total Profit
-- Average investment\
+- Average investment<br/>
 The python files contain the code which conducts the backtest
 
 ## Technical indicators tested
