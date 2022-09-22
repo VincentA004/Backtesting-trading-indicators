@@ -1,6 +1,6 @@
 # Backtesting-trading-indicators
 # Overview
-These python files backtest common trading rules regarding techincal indicators such as SMA(simple moving averege), RSI(relative strength index) and many others. To determine the most profitable trading indicator 
+These python files backtest common trading rules regarding techincal indicators such as SMA(simple moving averege), RSI(relative strength index) and many others in order to find the most profible trading indicator 
 ## Repository composition
 The log files contain data on the tested indicator such as
 - Accuracy
