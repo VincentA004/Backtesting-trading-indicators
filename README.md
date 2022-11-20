@@ -23,6 +23,7 @@ The python files contain the code which conducts the backtest
 - Average Directional Movement Index (DMI)
 - Bollinger Bands
 - Aroon
+- Commodity Channel Index (CCI)
 
 ## Data
 The stock data is based on the S&P 500 index
