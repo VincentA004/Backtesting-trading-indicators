@@ -20,7 +20,8 @@ The python files contain the code which conducts the backtest
 - Triple exponential Moving Average (TEMA 200)
 - Reletive Strength Index & Triple exponential Moving Average (RSI & TEMA 200)
 - Stochastic (STD)
--  Average Directional Movement Index (DMI)
+- Average Directional Movement Index (DMI)
+- Bollinger Bands
 
 ## Data
 The stock data is based on the S&P 500 index
